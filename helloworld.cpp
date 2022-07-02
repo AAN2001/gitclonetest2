@@ -2,5 +2,5 @@
 
 void main()
 {
-    ;
+    std::cout << "master" << std::endl;
 }
