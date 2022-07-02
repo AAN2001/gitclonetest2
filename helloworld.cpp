@@ -2,5 +2,7 @@
 
 void main()
 {
-    std::cout << "master" << std::endl;
+    std::cout << "asdfasdf" <<std::endl;
+
+    std::cout << "masasdfasdfasdfter master ?" << std::endl;
 }
